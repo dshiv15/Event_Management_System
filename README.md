@@ -1,16 +1,30 @@
-# Event_Management_System
-The Event Management System (EMS) is a PHP-based web application with separate user and admin interfaces. 
+# 🎉 Event Management System (EMS)
 
-### Admin Features:
-- **Venue Management**: Accept/reject booking requests, update venue details (timing, cost, etc.), and add/remove/customize venues.
-- **User Communication**: Respond to user queries and requests for changes.
-- **Search Functionality**: Locate specific event places easily.
-- **Profile Management**: Update contact details such as mobile number and email.
-- **Event Monitoring**: Track upcoming events and manage schedules effectively.
+A **PHP-based web application** to streamline event venue booking and management for both users and administrators. EMS provides a dual-interface system that simplifies requests, approvals, and venue tracking — all in real time.
 
-### User Features:
-- **Venue Browsing**: Explore and compare multiple venues based on need.
-- **Booking Requests**: Submit booking requests with basic details.
-- **Email Notifications**: Receive confirmation and status updates via email.
+---
 
-The EMS provides a seamless and efficient platform for managing event venues, ensuring smooth communication and operation for both users and administrators.
+## 🚀 Key Features
+
+### 👤 User Panel
+- 🏟️ **Browse Venues**: View available venues with key details.
+- 📝 **Submit Booking Requests**: Fill out booking forms with event requirements.
+- 📄 **Track Booking Status**: View real-time updates for your request.
+
+### 🛠️ Admin Panel
+- 📅 **Venue Management**: Add, update, or delete venues; customize timing and cost.
+- ✅ **Booking Approval/Reject**: Review and act on user booking requests.
+- 🔍 **Search Events/Venues**: Easily search for specific event data.
+- 📋 **View All Bookings**: See a list of upcoming events and manage schedules.
+- 📬 **User Request Handling**: Manage user queries and change requests.
+
+---
+
+## 🧰 Tech Stack
+
+- **PHP** – Backend scripting language  
+- **MySQL** – Relational database  
+- **HTML/CSS** – Frontend structure and design  
+- **JavaScript** – Dynamic behavior for forms and interactions  
+
+---
